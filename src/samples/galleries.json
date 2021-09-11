@@ -1,0 +1,50 @@
+[
+    {
+        "id": "2fa666bf619d4d08bfce8caae53b456e",
+        "artist": "Estelle Barbet",
+        "title": "Marilyn Forever",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/Estelle_Barbet-Marilyn_Forever-2-585x585.jpg",
+        "type": "painting",
+        "price": 8500
+    },
+    {
+        "id": "b06e99a2b6b04ac6bc09805cabb264e9",
+        "artist": "Estelle Barbet",
+        "title": "Kate",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/Estelle_Barbet-kate-2.jpg",
+        "type": "painting",
+        "price": 8500
+    },
+    {
+        "id": "7276dc4eac874f53a6bd1ee165ce8cfc",
+        "artist": "Kikayou",
+        "title": "Mickey Aviator",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/Kikayou-mickey_aviator.jpg",
+        "type": "painting",
+        "price": 3600
+    },
+    {
+        "id": "45fe84a0ed064f22b689cc6fda274632",
+        "artist": "Kikayou",
+        "title": "Felix The Cat",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/Kikayou-felix_green.jpg",
+        "type": "painting",
+        "price": 3600
+    },
+    {
+        "id": "acd3e2271009479e9664e4ea45a683bf",
+        "artist": "Zed",
+        "title": "Be Musician",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/ZED-be_musician.jpg",
+        "type": "sculpture",
+        "price": 575
+    },
+    {
+        "id": "c64a462a6aef4889995732e4b66d7fb0",
+        "artist": "Zed",
+        "title": "Be Welcome 3 (Orange)",
+        "imageUrl": "https://gallerydesartistes.com/wp-content/uploads/ZED-be_welcoming_3_orange.jpg",
+        "type": "sculpture",
+        "price": 575
+    }
+]
